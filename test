@@ -1,3 +1,4 @@
+OracleJdbcTest test = new OracleJdbcTest();
 Connection con;
 rs.close();
 // do the thing you do
